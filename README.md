@@ -10,6 +10,6 @@
 
 想了解我更多吗，欢迎浏览我的 [【个人主页】](https://personnal-website-plum.vercel.app/#/)
 
-###项目语言数据
+### 项目语言数据
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayCatLi&theme=dark&layout=compact)
