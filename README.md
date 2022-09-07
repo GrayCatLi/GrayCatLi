@@ -12,4 +12,4 @@
 
 ### 项目语言数据
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GrayCatLi&theme=dark&layout=compact)
+![Most Used Languages](https://graycatli.github.io/personnalWebsite.github.io/#/)
