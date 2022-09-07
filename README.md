@@ -8,7 +8,7 @@
 
 我喜欢实现一些有趣且炫酷的视觉效果，这会给我带来很大的成就感和愉悦感
 
-想了解我更多吗，欢迎浏览我的 [【个人主页】](https://personnal-website-plum.vercel.app/#/)
+想了解我更多吗，欢迎浏览我的 [【个人主页】](https://graycatli.github.io/personnalWebsite.github.io/#/)
 
 ### 项目语言数据
 
