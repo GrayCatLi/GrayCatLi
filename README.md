@@ -10,6 +10,3 @@
 
 想了解我更多吗，欢迎浏览我的 [【个人主页】](https://graycatli.github.io/personnalWebsite.github.io/#/)
 
-### 项目语言数据
-
-![Most Used Languages](https://graycatli.github.io/personnalWebsite.github.io/#/)
